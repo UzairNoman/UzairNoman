@@ -1,4 +1,4 @@
-<!--[![MasterHead](https://media.giphy.com/media/3o84slVlVZ1PYqckYE/giphy.gif)](https://rishavchanda.io) -->
+<!--[![MasterHead](https://media.giphy.com/media/3o84slVlVZ1PYqckYE/giphy.gif)]() -->
 <p align="center">
 <img width="22%" height="80px" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif">
 </p>
@@ -12,17 +12,15 @@
 
 
 
+- 🔭 I’m currently working on **my master thesis at Fraunhofer IEE**
 
+- 🌱 I’m currently learning **German language**
 
-- 🔭 I’m currently working on **Buckoid Android App**
+- 💬 Ask me about **Javascript, Typescript, Angular, React, Python**
 
-- 🌱 I’m currently learning **DevOps**
+- ⚡ I love **Table tennis, calligraphy, designing, music**
 
-- 💬 Ask me about **Android , MEARN**
-
-- 📫 How to reach me **s.uzairnoman@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
+- 💡 I want to stay up to date with **Machine learning/Deep learning**
 
 
 ## 🌐 Socials:
