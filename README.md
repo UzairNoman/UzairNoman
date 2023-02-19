@@ -1,12 +1,12 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://uzairnoman.vercel.app/)
 <h1 align="center">Hi 👋, I'm Uzair Noman</h1>
 <h3 align="center">I am web artisan, love to wrangle with data and enjoys code tinkering</h3>
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+
+<div class="tenor-gif-embed" data-postid="21009539" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/enter-dev-developer-commit-git-gif-21009539">Enter Dev GIF</a>from <a href="https://tenor.com/search/enter-gifs">Enter GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> </p>
+
 
 - 🔭 I’m currently working on **Buckoid Android App**
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Android , MEARN**
 
-- 📫 How to reach me **rishavchanda0@gmail.com**
+- 📫 How to reach me **s.uzairnoman@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
