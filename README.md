@@ -1,8 +1,8 @@
-[![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2UxODU4ZmI4ODZlODgwNmM2ZDJkNzhmNzU2MDQ5NzA1MDUwNTFiOSZjdD1n/bcKmIWkUMCjVm/giphy.gif)](https://rishavchanda.io)
+<!--[![MasterHead](https://media.giphy.com/media/3o84slVlVZ1PYqckYE/giphy.gif)](https://rishavchanda.io) -->
+<div class="hello" style="width:100%;display:flex;justify-content:center">
+ <img width="200px" height="100px" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif">
+</div>
 
-<!-- <img width="100%" height="150px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2UxODU4ZmI4ODZlODgwNmM2ZDJkNzhmNzU2MDQ5NzA1MDUwNTFiOSZjdD1n/bcKmIWkUMCjVm/giphy.gif">
-
--->
 
 
 <h1 align="center">Hi 👋, I'm Uzair Noman</h1>
