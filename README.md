@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Uzair Noman</h1>
 <h3 align="center">I am web artisan, love to wrangle with data and enjoys code tinkering</h3>
 
-<div class="tenor-gif-embed" data-postid="21009539" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/enter-dev-developer-commit-git-gif-21009539">Enter Dev GIF</a>from <a href="https://tenor.com/search/enter-gifs">Enter GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 
 
 
