@@ -1,4 +1,4 @@
-[![MasterHead](<img alt="Coding" style="width:100%" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">)](https://uzairnoman.vercel.app/)
+[![MasterHead]<img alt="Coding" style="width:100%" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">](https://uzairnoman.vercel.app/)
 <h1 align="center">Hi 👋, I'm Uzair Noman</h1>
 <h3 align="center">I am web artisan, love to wrangle with data and enjoys code tinkering</h3>
 
