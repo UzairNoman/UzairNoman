@@ -16,3 +16,5 @@ I m lovin' it
 [![](https://visitcount.itsvg.in/api?id=UzairNoman&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![](https://visitcount.itsvg.in/api?id=UzairNoman&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
