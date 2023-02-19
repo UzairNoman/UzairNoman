@@ -20,4 +20,4 @@ I m lovin' it
 [![](https://visitcount.itsvg.in/api?id=UzairNoman&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=UzairNoman)
