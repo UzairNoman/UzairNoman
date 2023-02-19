@@ -1,7 +1,7 @@
 <!--[![MasterHead](https://media.giphy.com/media/3o84slVlVZ1PYqckYE/giphy.gif)](https://rishavchanda.io) -->
-<div class="hello" style="width:100%;display:flex;justify-content:center">
- <img width="200px" height="100px" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif">
-</div>
+<p align="center">
+<img width="22%" height="80px" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif">
+</p>
 
 
 
