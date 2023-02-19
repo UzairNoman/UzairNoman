@@ -31,7 +31,7 @@
 # 📊 GitHub Stats:
 
 <img align="left" width="48%" height="220px" src="https://github-readme-stats.vercel.app/api?username=UzairNoman&theme=default&hide_border=false&include_all_commits=true&count_private=true">
-<img align="right" width="48%" height="250px" src="https://github-readme-streak-stats.herokuapp.com/?user=UzairNoman&theme=default&hide_border=false">
+<img align="right" width="48%" height="220px" src="https://github-readme-streak-stats.herokuapp.com/?user=UzairNoman&theme=default&hide_border=false">
 
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=UzairNoman&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
