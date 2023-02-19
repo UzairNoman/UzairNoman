@@ -1,4 +1,10 @@
-[![MasterHead](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif | width=100)](https://uzairnoman.vercel.app/)
+[![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2UxODU4ZmI4ODZlODgwNmM2ZDJkNzhmNzU2MDQ5NzA1MDUwNTFiOSZjdD1n/bcKmIWkUMCjVm/giphy.gif)](https://rishavchanda.io)
+
+<!-- <img width="100%" height="150px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2UxODU4ZmI4ODZlODgwNmM2ZDJkNzhmNzU2MDQ5NzA1MDUwNTFiOSZjdD1n/bcKmIWkUMCjVm/giphy.gif">
+
+-->
+
+
 <h1 align="center">Hi 👋, I'm Uzair Noman</h1>
 <h3 align="center">I am web artisan, love to wrangle with data and enjoys code tinkering</h3>
 
