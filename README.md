@@ -12,7 +12,7 @@
 
 
 
-- 🔭 I’m currently working on **my master thesis at Fraunhofer IEE**
+- 🔭 I’m currently working as a Software Engineer at **tabya GmbH**
 
 - 🌱 I’m currently learning **German language**
 
