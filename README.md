@@ -2,7 +2,7 @@
 
 
 [![An image of @uzairnoman's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/uzairnoman)](https://holopin.io/@uzairnoman)
-[![@uzairnoman's Holopin board](https://holopin.io/api/user/board?user=uzairnoman)](https://holopin.io/@uzairnoman)
+<!-- [![@uzairnoman's Holopin board](https://holopin.io/api/user/board?user=uzairnoman)](https://holopin.io/@uzairnoman) -->
 
 
 <p align="center">
