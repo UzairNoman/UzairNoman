@@ -18,7 +18,7 @@
 
 
 
-- 🔭 I’m currently working as a Software Engineer at **Sprylab Technologies GmbH**
+- 🔭 I’m currently working as Senior Software Engineer at **Sprylab Technologies GmbH**
 
 - 🌱 I’m currently learning **German language**
 
